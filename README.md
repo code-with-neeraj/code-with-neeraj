@@ -1,4 +1,4 @@
-<img src="image_url" width="300">
+<img src="background.png" width="300">
 
 
 <h1 align="center">Hi 👋, I'm Neeraj kumar</h1>
