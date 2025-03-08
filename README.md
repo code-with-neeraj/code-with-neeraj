@@ -1,3 +1,6 @@
+<img src="image_url" width="300">
+
+
 <h1 align="center">Hi 👋, I'm Neeraj kumar</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
