@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **DSA**
 
-- 👨‍💻 All of my projects are available at [https://my-portfolio-xi.netlify.app/](https://my-portfolio-by44.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://my-portfolio-xi.netlify.app/]
 
 - 📫 How to reach me **neerajkr145518@gmail.com**
 
